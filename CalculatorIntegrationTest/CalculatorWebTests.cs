@@ -28,7 +28,10 @@ namespace CalculatorIntegrationTest
             var left = _driver.FindElement(By.CssSelector("input[name=OperandFirst]"));
             var right = _driver.FindElement(By.CssSelector("input[name=OperandSecond]"));
             var form = _driver.FindElement(By.CssSelector("form"));
+            var rb = _driver.FindElement(By.CssSelector("input[value=Addition]"));
 
+
+            rb.Click();
             left.SendKeys("1");
             right.SendKeys("1");
             form.Submit();
@@ -43,9 +46,14 @@ namespace CalculatorIntegrationTest
             var left = _driver.FindElement(By.CssSelector("input[name=OperandFirst]"));
             var right = _driver.FindElement(By.CssSelector("input[name=OperandSecond]"));
             var form = _driver.FindElement(By.CssSelector("form"));
+            var rb = _driver.FindElement(By.CssSelector("input[value=Subtraction]"));
+
+
+            rb.Click();
 
             left.SendKeys("2");
             right.SendKeys("1");
+            rb.Click();
             form.Submit();
 
             var output = _driver.FindElement(By.CssSelector("output"));
@@ -58,6 +66,10 @@ namespace CalculatorIntegrationTest
             var left = _driver.FindElement(By.CssSelector("input[name=OperandFirst]"));
             var right = _driver.FindElement(By.CssSelector("input[name=OperandSecond]"));
             var form = _driver.FindElement(By.CssSelector("form"));
+            var rb = _driver.FindElement(By.CssSelector("input[value=Multiplication]"));
+
+
+            rb.Click();
 
             left.SendKeys("2");
             right.SendKeys("2");
@@ -73,6 +85,10 @@ namespace CalculatorIntegrationTest
             var left = _driver.FindElement(By.CssSelector("input[name=OperandFirst]"));
             var right = _driver.FindElement(By.CssSelector("input[name=OperandSecond]"));
             var form = _driver.FindElement(By.CssSelector("form"));
+            var rb = _driver.FindElement(By.CssSelector("input[value=Division]"));
+
+
+            rb.Click();
 
             left.SendKeys("4");
             right.SendKeys("2");
