@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vPWDASNlMxHPaj0nwlp/DVvxx51mMXeh24P7P0tva73ZzvFRCQMJTy/dKPjkYEQnM79D81zKF4G+OsNt3HCrcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heman\\source\\repos\\CalculatorWebAPI\\CalculatorWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\heman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\heman\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\heman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\heman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\heman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

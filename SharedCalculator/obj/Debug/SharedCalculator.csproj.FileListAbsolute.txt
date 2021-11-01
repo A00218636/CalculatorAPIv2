@@ -1,0 +1,5 @@
+C:\Users\heman\source\repos\SharedCalculator\bin\Debug\SharedCalculator.dll
+C:\Users\heman\source\repos\SharedCalculator\bin\Debug\SharedCalculator.pdb
+C:\Users\heman\source\repos\SharedCalculator\obj\Debug\SharedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\heman\source\repos\SharedCalculator\obj\Debug\SharedCalculator.dll
+C:\Users\heman\source\repos\SharedCalculator\obj\Debug\SharedCalculator.pdb

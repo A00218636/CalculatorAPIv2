@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post">
+    <div><input type="number" name="OperandFirst" /></div>
+    <div><input type="number" name="OperandSecond" /></div>
+    <div>
+        <input type="radio" name="operation" value="Addition" checked="checked" />Addition
+    </div>
+
+    <div>
+        <input type="radio" name="operation" value="Subtraction" />Subtraction
+    </div>
+    <div>
+        <input type="radio" name="operation" value="Division" />Division
+    </div>
+    <div>
+        <input type="radio" name="operation" value="Multiplication" />Multiplication
+    </div>
+            
+    <div><input type="submit" /></div>
+
+
+</form>
+
+|@if (ViewData["result"]!= null)
+{ 
+        <output id="result">@ViewData["result"]</output>
+}
