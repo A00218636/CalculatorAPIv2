@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aty8ocVZntW9lhyOXXr/3VVjGUypwf+6jI/wbp2In1dt760biA5l6vfkCqQy/d2MsC7rsVkZvL4svp0mFVRUmg==",
+  "dgSpecHash": "nGCm10o3aAnVc6kjcYlqlLuqrp+RXHe7AvkqeEp/vc9OO/AXxNNnsK+wzoTba5t8n2GH8XCwtwwY1tvMTM7s5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heman\\source\\repos\\WebCalculator\\WebCalculator.csproj",
+  "projectFilePath": "C:\\Users\\heman\\source\\repos\\CalculatorAPI\\WebCalculator\\WebCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
